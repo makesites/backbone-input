@@ -1,0 +1,6 @@
+[submodule "mouse"]
+	path = mouse
+	url = git://github.com/backbone-input/mouse.git
+[submodule "scroll"]
+	path = scroll
+	url = git://github.com/backbone-input/scroll.git
