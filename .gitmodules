@@ -4,3 +4,9 @@
 [submodule "scroll"]
 	path = scroll
 	url = git://github.com/backbone-input/scroll.git
+[submodule "keys"]
+	path = keys
+	url = git://github.com/backbone-input/keys.git
+[submodule "touch"]
+	path = touch
+	url = git://github.com/backbone-input/touch.git
