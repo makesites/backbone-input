@@ -10,3 +10,6 @@
 [submodule "touch"]
 	path = touch
 	url = git://github.com/backbone-input/touch.git
+[submodule "motion"]
+	path = motion
+	url = git://github.com/backbone-input/motion.git
