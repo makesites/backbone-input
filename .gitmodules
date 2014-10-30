@@ -13,3 +13,6 @@
 [submodule "motion"]
 	path = motion
 	url = git://github.com/backbone-input/motion.git
+[submodule "gamepad"]
+	path = gamepad
+	url = git://github.com/backbone-input/gamepad.git
